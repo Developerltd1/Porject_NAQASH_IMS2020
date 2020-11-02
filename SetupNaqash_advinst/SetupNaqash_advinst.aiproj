@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">All</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>fb11a5da-d425-4de6-be76-4a4790a7f3e4</ProjectGuid>
+    <OutputType>msi</OutputType>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>SetupNaqash_advinst.aip</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <IsWindowsApplication>True</IsWindowsApplication>
+    <AssemblyName>SetupNaqash_advinst</AssemblyName>
+    <Name>SetupNaqash_advinst</Name>
+    <RootNamespace>SetupNaqash_advinst</RootNamespace>
+    <ImportedProject>{8f774c22-42a0-411b-9684-ac15366146c9}</ImportedProject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'All' ">
+    <DebugSymbols>false</DebugSymbols>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="SetupNaqash_advinst.aip">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Caphyon\Advanced Installer\AdvInstExtTasks.Targets" />
+</Project>

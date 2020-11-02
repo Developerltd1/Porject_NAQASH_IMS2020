@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C5C2D1A1-B539-4492-808F-D14E8C4E96A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Porject_NAQASH_IMS2020</RootNamespace>
+    <AssemblyName>Porject_NAQASH_IMS2020</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>C:\Users\AQIB\Desktop\TestSetup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>https://www.google.com/</InstallUrl>
+    <SupportUrl>https://www.google.com</SupportUrl>
+    <ProductName>Naqas IMS</ProductName>
+    <PublisherName>AQIB</PublisherName>
+    <SuiteName>Developersltd</SuiteName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>152A03064808D6B01E90DF3DA33AC8A46AD2E287</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Porject_NAQASH_IMS2020_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Nlogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForms\CategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\CategoryForm.Designer.cs">
+      <DependentUpon>CategoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\NO\Backup_path.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\NO\Backup_path.Designer.cs">
+      <DependentUpon>Backup_path.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\NO\restore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\NO\restore.Designer.cs">
+      <DependentUpon>restore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ProductForm.Designer.cs">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\SuppliertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\SuppliertForm.Designer.cs">
+      <DependentUpon>SuppliertForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ExpensesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ExpensesForm.Designer.cs">
+      <DependentUpon>ExpensesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\UsersForm.Designer.cs">
+      <DependentUpon>UsersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\PurchaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\PurchaseForm.Designer.cs">
+      <DependentUpon>PurchaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\StockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\StockForm.Designer.cs">
+      <DependentUpon>StockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForms\CheckInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForms\CheckInvoice.Designer.cs">
+      <DependentUpon>CheckInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForms\POSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForms\POSForm.Designer.cs">
+      <DependentUpon>POSForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\CheckReciptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\CheckReciptForm.Designer.cs">
+      <DependentUpon>CheckReciptForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForms\AvailableStockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForms\AvailableStockForm.Designer.cs">
+      <DependentUpon>AvailableStockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForms\Mainfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForms\Mainfrm.Designer.cs">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MngClass\MainClass.cs" />
+    <Compile Include="MngClass\ModelClass.cs" />
+    <Compile Include="MngClass\Utilities\Conversions.cs" />
+    <Compile Include="MngClass\Utilities\ImageClass.cs" />
+    <Compile Include="MngClass\Utilities\Imager.cs" />
+    <Compile Include="MngClass\Utilities\JIMessageBox.cs" />
+    <Compile Include="MngClass\Utilities\ListData.cs" />
+    <Compile Include="NAQ_DB2020DataSet.cs">
+      <DependentUpon>NAQ_DB2020DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NAQ_DB2020DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NAQ_DB2020DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportForms\DailyInvoiceFormR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\DailyInvoiceFormR.Designer.cs">
+      <DependentUpon>DailyInvoiceFormR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForms\BarcodeFormR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\BarcodeFormR.Designer.cs">
+      <DependentUpon>BarcodeFormR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForms\NO\InvoiceSummaryFormR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForms\NO\InvoiceSummaryFormR.Designer.cs">
+      <DependentUpon>InvoiceSummaryFormR.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminForms\CategoryForm.resx">
+      <DependentUpon>CategoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\NO\Backup_path.resx">
+      <DependentUpon>Backup_path.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\NO\restore.resx">
+      <DependentUpon>restore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ProductForm.resx">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\SuppliertForm.resx">
+      <DependentUpon>SuppliertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ExpensesForm.resx">
+      <DependentUpon>ExpensesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\UsersForm.resx">
+      <DependentUpon>UsersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\PurchaseForm.resx">
+      <DependentUpon>PurchaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\StockForm.resx">
+      <DependentUpon>StockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForms\CheckInvoice.resx">
+      <DependentUpon>CheckInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForms\POSForm.resx">
+      <DependentUpon>POSForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\CheckReciptForm.resx">
+      <DependentUpon>CheckReciptForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForms\AvailableStockForm.resx">
+      <DependentUpon>AvailableStockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForms\Mainfrm.resx">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportForms\DailyInvoiceFormR.resx">
+      <DependentUpon>DailyInvoiceFormR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForms\BarcodeFormR.resx">
+      <DependentUpon>BarcodeFormR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForms\NO\InvoiceSummaryFormR.resx">
+      <DependentUpon>InvoiceSummaryFormR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\NO\ReportDailySummaryInvoices.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportBarcode.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportDailyInvoices.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="NAQ_DB2020DataSet.xsc">
+      <DependentUpon>NAQ_DB2020DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NAQ_DB2020DataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NAQ_DB2020DataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="NAQ_DB2020DataSet.xss">
+      <DependentUpon>NAQ_DB2020DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Porject_NAQASH_IMS2020_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CustomModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\222.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchaseIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supplier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pointofSale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expense.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.12.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Report Viewer 2014 Runtime</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SQLSysClrTypes.12.0.x64">
+      <Visible>False</Visible>
+      <ProductName>Microsoft® System CLR Types for SQL Server® 2014 %28x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SQLSysClrTypes.12.0.x86">
+      <Visible>False</Visible>
+      <ProductName>Microsoft® System CLR Types for SQL Server® 2014 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Nlogo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

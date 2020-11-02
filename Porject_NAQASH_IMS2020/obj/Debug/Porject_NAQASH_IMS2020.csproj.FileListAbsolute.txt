@@ -1,0 +1,118 @@
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe.config
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.pdb
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.CategoryForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.ProductForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.SuppliertForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.ExpensesForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.UsersForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.PurchaseForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.StockForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.POSForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.CheckReciptForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.AvailableStockForm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\PAF_BOS.Mainfrm.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.Properties.Resources.resources
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.csproj.GenerateResource.Cache
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.exe
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.pdb
+C:\Users\AQIB\Desktop\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.csprojResolveAssemblyReference.cache
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Reports\NO\ReportDailySummaryInvoices.rdlc
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Reports\ReportBarcode.rdlc
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Reports\ReportDailyInvoices.rdlc
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe.config
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe.manifest
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.application
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.pdb
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.CategoryForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.Backup_path.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.restore.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.ProductForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.SuppliertForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.ExpensesForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.UsersForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.PurchaseForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.StockForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ClientForms.CheckInvoice.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.POSForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.CheckReciptForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.AvailableStockForm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\PAF_BOS.Mainfrm.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.Properties.Resources.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ClientForms.DailyInvoiceFormR.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ReportForms.BarcodeFormR.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ClientForms.InvoiceSummaryFormR.resources
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.csproj.GenerateResource.Cache
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\RdlCompile.cache
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\RdlCompile.compiled
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.exe.manifest
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.application
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.exe
+D:\Desktop\EXTRA\Software WORK\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.pdb
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe.config
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.exe
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.pdb
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Reports\NO\ReportDailySummaryInvoices.rdlc
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Reports\ReportBarcode.rdlc
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Reports\ReportDailyInvoices.rdlc
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe.manifest
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.application
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.exe
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Porject_NAQASH_IMS2020.pdb
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.csprojResolveAssemblyReference.cache
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.CategoryForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.Backup_path.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.restore.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.ProductForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.SuppliertForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.ExpensesForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.UsersForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.PurchaseForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.StockForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ClientForms.CheckInvoice.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.POSForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.CheckReciptForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.AdminForms.AvailableStockForm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\PAF_BOS.Mainfrm.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.Properties.Resources.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ClientForms.DailyInvoiceFormR.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ReportForms.BarcodeFormR.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.ClientForms.InvoiceSummaryFormR.resources
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.csproj.GenerateResource.Cache
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\RdlCompile.cache
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\RdlCompile.compiled
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.exe.manifest
+D:\Application\Desktop\NAQASH_IMS2020\Porject_NAQASH_IMS2020\Porject_NAQASH_IMS2020\obj\Debug\Porject_NAQASH_IMS2020.application
